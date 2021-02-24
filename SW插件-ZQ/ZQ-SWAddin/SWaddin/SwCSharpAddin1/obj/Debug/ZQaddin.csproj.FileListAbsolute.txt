@@ -1,0 +1,10 @@
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\OBOT-Code\SW插件-ZQ\ZQ-SWAddin\SWaddin\SwCSharpAddin1\bin\Debug\App.config
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\OBOT-Code\SW插件-ZQ\ZQ-SWAddin\SWaddin\SwCSharpAddin1\bin\Debug\ZQaddin.dll.config
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\OBOT-Code\SW插件-ZQ\ZQ-SWAddin\SWaddin\SwCSharpAddin1\bin\Debug\ZQaddin.dll
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\OBOT-Code\SW插件-ZQ\ZQ-SWAddin\SWaddin\SwCSharpAddin1\bin\Debug\ZQaddin.pdb
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\OBOT-Code\SW插件-ZQ\ZQ-SWAddin\SWaddin\SwCSharpAddin1\bin\Debug\ZQaddin.tlb
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\OBOT-Code\SW插件-ZQ\ZQ-SWAddin\SWaddin\SwCSharpAddin1\bin\Debug\solidworkstools.dll
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\OBOT-Code\SW插件-ZQ\ZQ-SWAddin\SWaddin\SwCSharpAddin1\obj\Debug\ZQaddin.dll
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\OBOT-Code\SW插件-ZQ\ZQ-SWAddin\SWaddin\SwCSharpAddin1\obj\Debug\ZQaddin.pdb
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\OBOT-Code\SW插件-ZQ\ZQ-SWAddin\SWaddin\SwCSharpAddin1\bin\Debug\ZQCode.dll
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\OBOT-Code\SW插件-ZQ\ZQ-SWAddin\SWaddin\SwCSharpAddin1\bin\Debug\ZQCode.pdb

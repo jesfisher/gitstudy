@@ -1,0 +1,12 @@
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\KMA-Code\02共享3D编码SW插件\GXJT3DCode-2019\bin\Debug\GXJT3DCode.dll
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\KMA-Code\02共享3D编码SW插件\GXJT3DCode-2019\bin\Debug\GXJT3DCode.pdb
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\KMA-Code\02共享3D编码SW插件\GXJT3DCode-2019\bin\Debug\KIMDrawingCode.dll
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\KMA-Code\02共享3D编码SW插件\GXJT3DCode-2019\bin\Debug\solidworkstools.dll
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\KMA-Code\02共享3D编码SW插件\GXJT3DCode-2019\bin\Debug\KIMDrawingCode.pdb
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\KMA-Code\02共享3D编码SW插件\GXJT3DCode-2019\obj\Debug\GXJT3DCode.frmLogin.resources
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\KMA-Code\02共享3D编码SW插件\GXJT3DCode-2019\obj\Debug\GXJT3DCode.frmMaterialCode.resources
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\KMA-Code\02共享3D编码SW插件\GXJT3DCode-2019\obj\Debug\GXJT3DCode.Properties.Resources.resources
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\KMA-Code\02共享3D编码SW插件\GXJT3DCode-2019\obj\Debug\GXJT3DCode.csproj.GenerateResource.Cache
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\KMA-Code\02共享3D编码SW插件\GXJT3DCode-2019\obj\Debug\GXJT3DCode.dll.licenses
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\KMA-Code\02共享3D编码SW插件\GXJT3DCode-2019\obj\Debug\GXJT3DCode.dll
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\KMA-Code\02共享3D编码SW插件\GXJT3DCode-2019\obj\Debug\GXJT3DCode.pdb

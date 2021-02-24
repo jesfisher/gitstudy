@@ -1,0 +1,9 @@
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\KMA-Code\01共享辅机编码SW插件\KMACode2019\obj\Debug\KMACode.csproj.GenerateResource.Cache
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\KMA-Code\01共享辅机编码SW插件\KMACode2019\obj\Debug\KMACode.Properties.Resources.resources
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\KMA-Code\01共享辅机编码SW插件\KMACode2019\bin\Debug\KMACode.pdb
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\KMA-Code\01共享辅机编码SW插件\KMACode2019\obj\Debug\KMACode.pdb
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\KMA-Code\01共享辅机编码SW插件\KMACode2019\obj\Debug\KMACode.frmMain.resources
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\KMA-Code\01共享辅机编码SW插件\KMACode2019\obj\Debug\KMACode.exe.licenses
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\KMA-Code\01共享辅机编码SW插件\KMACode2019\bin\Debug\KMACode.exe
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\KMA-Code\01共享辅机编码SW插件\KMACode2019\bin\Debug\solidworkstools.dll
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\KMA-Code\01共享辅机编码SW插件\KMACode2019\obj\Debug\KMACode.exe

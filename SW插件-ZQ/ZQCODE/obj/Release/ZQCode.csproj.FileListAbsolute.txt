@@ -1,0 +1,11 @@
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\OBOT-Code\SW插件-ZQ\ZQCODE\bin\Release\ZQCode.exe
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\OBOT-Code\SW插件-ZQ\ZQCODE\bin\Release\ZQCode.pdb
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\OBOT-Code\SW插件-ZQ\ZQCODE\bin\Release\solidworkstools.dll
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\OBOT-Code\SW插件-ZQ\ZQCODE\obj\Release\ZQCode.frmLogin.resources
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\OBOT-Code\SW插件-ZQ\ZQCODE\obj\Release\ZQCode.frmMaterialClass.resources
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\OBOT-Code\SW插件-ZQ\ZQCODE\obj\Release\ZQCode.frmMaterialCode.resources
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\OBOT-Code\SW插件-ZQ\ZQCODE\obj\Release\ZQCode.Properties.Resources.resources
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\OBOT-Code\SW插件-ZQ\ZQCODE\obj\Release\ZQCode.csproj.GenerateResource.Cache
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\OBOT-Code\SW插件-ZQ\ZQCODE\obj\Release\ZQCode.exe.licenses
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\OBOT-Code\SW插件-ZQ\ZQCODE\obj\Release\ZQCode.exe
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\OBOT-Code\SW插件-ZQ\ZQCODE\obj\Release\ZQCode.pdb

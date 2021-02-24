@@ -1,0 +1,15 @@
+E:\01.客户资料\06.共享集团\GXJT\GXJTFJCode\bin\Release\GXJTJFCode.dll
+E:\01.客户资料\06.共享集团\GXJT\GXJTFJCode\bin\Release\GXJTJFCode.pdb
+E:\01.客户资料\06.共享集团\GXJT\GXJTFJCode\bin\Release\Interop.EdmLib.dll
+E:\01.客户资料\06.共享集团\GXJT\GXJTFJCode\obj\Release\GXJTFJCode.csprojResolveAssemblyReference.cache
+E:\01.客户资料\06.共享集团\GXJT\GXJTFJCode\obj\Release\Interop.EdmLib.dll
+E:\01.客户资料\06.共享集团\GXJT\GXJTFJCode\obj\Release\GXJTFJCode.csproj.ResolveComReference.cache
+E:\01.客户资料\06.共享集团\GXJT\GXJTFJCode\obj\Release\GXJTFJCode.frmBase.resources
+E:\01.客户资料\06.共享集团\GXJT\GXJTFJCode\obj\Release\GXJTFJCode.frmCodeNameContrast.resources
+E:\01.客户资料\06.共享集团\GXJT\GXJTFJCode\obj\Release\GXJTFJCode.frmBillManage.resources
+E:\01.客户资料\06.共享集团\GXJT\GXJTFJCode\obj\Release\GXJTFJCode.frmCodeNameContrastManage.resources
+E:\01.客户资料\06.共享集团\GXJT\GXJTFJCode\obj\Release\GXJTFJCode.frmMain.resources
+E:\01.客户资料\06.共享集团\GXJT\GXJTFJCode\obj\Release\GXJTFJCode.Properties.Resources.resources
+E:\01.客户资料\06.共享集团\GXJT\GXJTFJCode\obj\Release\GXJTFJCode.csproj.GenerateResource.Cache
+E:\01.客户资料\06.共享集团\GXJT\GXJTFJCode\obj\Release\GXJTJFCode.dll
+E:\01.客户资料\06.共享集团\GXJT\GXJTFJCode\obj\Release\GXJTJFCode.pdb

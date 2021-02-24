@@ -1,0 +1,10 @@
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\GF-Code\SW插件\GFCODE\bin\Debug\GFCode.dll
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\GF-Code\SW插件\GFCODE\bin\Debug\GFCode.pdb
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\GF-Code\SW插件\GFCODE\bin\Debug\solidworkstools.dll
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\GF-Code\SW插件\GFCODE\obj\Debug\GFCode.frmLogin.resources
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\GF-Code\SW插件\GFCODE\obj\Debug\GFCode.frmDrawingCode.resources
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\GF-Code\SW插件\GFCODE\obj\Debug\GFCode.Properties.Resources.resources
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\GF-Code\SW插件\GFCODE\obj\Debug\GFCode.csproj.GenerateResource.Cache
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\GF-Code\SW插件\GFCODE\obj\Debug\GFCode.dll.licenses
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\GF-Code\SW插件\GFCODE\obj\Debug\GFCode.dll
+D:\0-项目资料\【01】客户项目\0-Code\0-Customer\GF-Code\SW插件\GFCODE\obj\Debug\GFCode.pdb
